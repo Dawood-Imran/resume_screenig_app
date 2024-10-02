@@ -1,4 +1,4 @@
-Welcome to the **Resume Screening App**! This application leverages **Machine Learning** to predict the most suitable job category for a resume. Just upload a PDF or text file, and let the app do the magic! ✨
+## Welcome to the **Resume Screening App**! This application leverages **Machine Learning** to predict the most suitable job category for a resume. Just upload a PDF or text file, and let the app do the magic! ✨
 
 ## 🚀 Features
 - Upload a resume in **PDF** or **text** format.
@@ -18,6 +18,6 @@ Welcome to the **Resume Screening App**! This application leverages **Machine Le
 - `pickle` (for loading pre-trained model)
 
 ## 📂 Files in the project:
-app.py: The main Streamlit app for resume prediction.
-model.pkl: The pre-trained KNN model.
-vectorizer.pkl: TF-IDF vectorizer used for transforming resume text.
+- app.py: The main Streamlit app for resume prediction.
+- model.pkl: The pre-trained KNN model.
+- vectorizer.pkl: TF-IDF vectorizer used for transforming resume text.
